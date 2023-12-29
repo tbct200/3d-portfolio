@@ -9,7 +9,7 @@ import {
   css,
   reactjs,
   redux,
-  tailwind,
+  angular,
   nodejs,
   mongodb,
   git,
@@ -85,8 +85,8 @@ const technologies = [
     icon: redux,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Angular",
+    icon: angular,
   },
   {
     name: "Node JS",
@@ -211,7 +211,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "angular",
         color: "pink-text-gradient",
       },
     ],
